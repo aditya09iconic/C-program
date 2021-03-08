@@ -1,8 +1,8 @@
 # :v: :raising_hand_man:
 
-:handshake: Hiii dude!!!!
+:handshake: Hiii dude!!!! :bow:
 
- :jack_o_lantern: coding is basic language to learn program
+ :jack_o_lantern: coding is basic language to learn program :fist_raised:
 
 :chess_pawn: chess is my passion  :no_good:
 
