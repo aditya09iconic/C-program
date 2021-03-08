@@ -2,7 +2,7 @@
 
 :handshake: Hiii dude!!!!
 
- : jack_o_lantern: coding is basic language to learn program
+ :jack_o_lantern: coding is basic language to learn program
 
 :chess_pawn: chess is my passion  :no_good:
 
