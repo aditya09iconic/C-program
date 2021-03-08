@@ -1,6 +1,6 @@
-# :v: :raising_man_hand:
+# :v: :raising_hand_man:
 :chess_pawn:
-
+chess is my passion  :no_good:
 hello-guys-
 :wave: 
 i am currently learning the java language
