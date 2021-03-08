@@ -1,4 +1,6 @@
-# :v:
+# :v: :raising_man_hand:
+:chess_pawn:
+
 hello-guys-
 :wave: 
 i am currently learning the java language
